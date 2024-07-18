@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Daehee Park
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Daehee
+last_name: Park
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👋
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: VILAB, Korea Advanced Institute of Science and Technology (KAIST)
+    url: https://vi.kaist.ac.kr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'bag2824@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/daeheepark
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/daehee-park-533a701a4/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=dGMozakAAAAJ&hl=ko
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3961-6932
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Daehee Park is a Ph.D. candidate at Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/)), advised by Prof.Kuk-Jin Yoon. He received B.S. and M.S. degree from KAIST in 2018 and 2020. He had research intern at [Naver Labs](https://www.naverlabs.com/) (2021) and [Qualcomm](https://www.qualcomm.com/) (2024). His research interests include expanding applicability of deep learning and computer vision for autonomous driving. His Ph.D. thesis is focused on modeling movement of agents under chellenging real-world problems (e.g. complex interaction, domain shift, and long-tail problem)
