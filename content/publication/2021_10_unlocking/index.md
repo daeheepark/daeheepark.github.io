@@ -5,11 +5,11 @@ title: 'Unlocking the Potential of Ordinary Classifier: Class-Specific Adversari
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Hyeokjun Kweon
-  - Sung-Hoon Yoon
+  - Hyeokjun Kweon*
+  - Sung-Hoon Yoon*
   - Hyeonseong Kim
   - admin
-  - Kuk-Jin Yoon
+  - Kuk-Jin Yoon (* equal contribution)
 
 # Author notes (optional)
 author_notes:

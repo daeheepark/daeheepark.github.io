@@ -10,7 +10,7 @@ authors:
   - Yujeong Chae*
   - Daehee Park*
   - Lin Wang
-  - Kuk-Jin Yoon (* denotes equal contribution)
+  - Kuk-Jin Yoon (* equal contribution)
 
 # Author notes (optional)
 author_notes:

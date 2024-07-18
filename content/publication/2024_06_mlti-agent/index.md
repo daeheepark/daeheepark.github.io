@@ -7,7 +7,7 @@ title: 'Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Tr
 authors:
   - Jaewoo Jeong*
   - Daehee Park* 
-  - Kuk-Jin Yoon (* denotes equal contribution)
+  - Kuk-Jin Yoon (* equal contribution)
 
 # Author notes (optional)
 author_notes:
