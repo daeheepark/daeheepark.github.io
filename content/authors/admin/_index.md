@@ -24,7 +24,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Korea Advanced Institute of \\ Science and Technology (KAIST) \\ VILAB 
+  - name: Korea Advanced Institute of Science and Technology (KAIST)
     url: https://vi.kaist.ac.kr
 
 # Social network links
@@ -47,42 +47,44 @@ profiles:
     url: https://orcid.org/0000-0002-3961-6932
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
+  - Autonomous Driving
+  - Transfer Learning
+  - Trajectory Prediction
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD Mechanical Engineering
+    institution: KAIST
+    date_start: 2020
+    date_end: Current
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: MS in Mechanical Engineering
+    institution: KAIST
+    date_start: 2018
+    date_end: 2020
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Mechanical Engineering and Business and Technology Management
+    institution: KAIST
+    date_start: 2013
+    date_end: 2018
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -110,19 +112,23 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: Pytorch
         description: ''
-        percent: 100
+        percent: 95
         icon: chart-bar
-      - name: SQL
+      - name: PyG
         description: ''
-        percent: 40
+        percent: 80
+        icon: circle-stack
+      - name: MATLAB
+        description: ''
+        percent: 50
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -143,11 +149,11 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +189,4 @@ awards:
 
 ## About Me
 
-Daehee Park is a Ph.D. candidate at Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/)), advised by Prof.Kuk-Jin Yoon. He received B.S. and M.S. degree from KAIST in 2018 and 2020. He had research intern at [Naver Labs](https://www.naverlabs.com/) (2021) and [Qualcomm](https://www.qualcomm.com/) (2024). His research interests include expanding applicability of deep learning and computer vision for autonomous driving. His Ph.D. thesis is focused on modeling movement of agents under chellenging real-world problems (e.g. complex interaction, domain shift, and long-tail problem)
+Daehee Park is a Ph.D. candidate at Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/)), advised by Prof.Kuk-Jin Yoon. He received B.S. and M.S. degree from KAIST in 2018 and 2020. He had research intern at [Naver Labs](https://www.naverlabs.com/) (2021) and [Qualcomm](https://www.qualcomm.com/) (2024). His research interests include expanding applicability of deep learning and computer vision for autonomous driving. His recent researchs are focused on modeling movement of agents under chellenging real-world problems (e.g. complex interaction, domain shift, and long-tail problem)
