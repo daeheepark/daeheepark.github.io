@@ -36,7 +36,7 @@ abstract: Multi-agent trajectory prediction is crucial for various practical app
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Deep Learning
+  - Transfer Learning
   - Autonomous Driving
   - Trajectory Prediction
 

@@ -42,9 +42,9 @@ abstract: Understanding the interaction between multiple agents is crucial for r
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - Trajectory Prediction
   - Deep Learning
   - Autonomous Driving
-  - Trajectory Prediction
 
 # Display this page in the Featured widget?
 featured: true

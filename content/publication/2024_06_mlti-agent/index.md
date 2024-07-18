@@ -15,7 +15,7 @@ author_notes:
   - 'Second author'
   - 'Corresponding author'
 
-date: '2024-03-24T00:00:00Z'
+date: '2024-06-17T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -36,9 +36,9 @@ abstract: Human pose forecasting garners attention for its diverse applications.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - Trajectory Prediction
   - Deep Learning
   - Autonomous Driving
-  - Trajectory Prediction
 
 # Display this page in the Featured widget?
 featured: true

@@ -1,5 +1,5 @@
 ---
-title: I joined Qualcomm Research as an intern
+title: I joined Naver Labs as an intern
 
 event: 
 event_url: 
@@ -17,7 +17,7 @@ summary: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-03-21'
+date: '2021-05-20'
 date_end: ''
 all_day: true
 

@@ -40,7 +40,7 @@ abstract: Trajectory prediction is a challenging problem that requires consideri
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Deep Learning
+  - Test-time Adaptation
   - Autonomous Driving
   - Trajectory Prediction
 
