@@ -1,25 +1,25 @@
 ---
-title: Example Talk
+title: I joined Qualcomm Research as an intern
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 
+event_url: 
 
-location: Hugo Blox Builder HQ
+location: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: ''
 # abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2024-04-01'
+date_end: ''
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
