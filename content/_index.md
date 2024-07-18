@@ -56,7 +56,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: title
+      view: date-title
       # Reduce spacing
       # spacing:
       #   padding: [0, 0, 0, 0]
