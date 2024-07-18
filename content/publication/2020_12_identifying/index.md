@@ -64,9 +64,9 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to import publication metadata into reference management.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
