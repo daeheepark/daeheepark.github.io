@@ -72,22 +72,23 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
   - block: collection
     content:
       title: Recent Publications
       text: ""
-      count: 50
+      count: 0
       filters:
         folders:
           - publication
