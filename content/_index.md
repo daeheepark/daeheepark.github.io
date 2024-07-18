@@ -55,12 +55,12 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title
+      view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, -10]
-
-  - block: experience
+        padding: [0, 0, 0, 0]
+        
+  - block: resume-experience
     content:
       # The user's folder name in `content/authors/`
       username: admin
