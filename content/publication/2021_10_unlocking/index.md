@@ -1,27 +1,25 @@
 ---
-title: 'BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-Aided Adversarial Learning'
+title: 'Unlocking the Potential of Ordinary Classifier: Class-Specific Adversarial Erasing Framework for Weakly Supervised Semantic Segmentation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Changgyoon Oh*
-  - Wonjune Cho*
-  - Yujeong Chae*
-  - admin *
-  - Lin Wang
-  - Kuk-Jin Yoon (* denotes equal contribution)
+  - Hyeokjun Kweon
+  - Sung-Hoon Yoon
+  - Hyeonseong Kim
+  - admin
+  - Kuk-Jin Yoon
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
   - 'Second author'
+  - 'Third author'
   - 'Corresponding author'
 
-date: '2022-10-21T00:00:00Z'
+date: '2021-10-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -33,10 +31,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ECCV 2022
-publication_short: 
+publication: ICCV 2021
+publication_short: In *ICW*
 
-abstract: Providing omnidirectional depth along with RGB information is important for numerous applications. However, as omnidirectional RGB-D data is not always available, synthesizing RGB-D panorama data from limited information of a scene can be useful. Therefore, some prior works tried to synthesize RGB panorama images from perspective RGB images; however, they suffer from limited image quality and can not be directly extended for RGB-D panorama synthesis. In this paper, we study a new problem, RGB-D panorama synthesis under the various configurations of cameras and depth sensors. Accordingly, we propose a novel bi-modal (RGB-D) panorama synthesis (BIPS) framework. Especially, we focus on indoor environments where the RGB-D panorama can provide a complete 3D model for many applications. We design a generator that fuses the bi-modal information and train it via residual depth-aided adversarial learning (RDAL). RDAL allows to synthesize realistic indoor layout structures and interiors by jointly inferring RGB panorama, layout depth, and residual depth. In addition, as there is no tailored evaluation metric for RGB-D panorama synthesis, we propose a novel metric (FAED) to effectively evaluate its perceptual quality. Extensive experiments show that our method synthesizes high-quality indoor RGB-D panoramas and provides more realistic 3D indoor models than prior methods. Code is available at https://github.com/chang9711/BIPS.
+abstract: Weakly supervised semantic segmentation (WSSS) using image-level classification labels usually utilizes the Class Activation Maps (CAMs) to localize objects of interest in images. While pointing out that CAMs only highlight the most discriminative regions of the classes of interest, adversarial erasing (AE) methods have been proposed to further explore the less discriminative regions. In this paper, we review the potential of the pre-trained classifier which is trained on the raw images. We experimentally verify that the ordinary classifier already has the capability to activate the less discriminative regions if the most discriminative regions are erased to some extent. Based on that, we propose a class-specific AE-based framework that fully exploits the potential of an ordinary classifier. Our framework (1) adopts the ordinary classifier to notify the regions to be erased and (2) generates a class-specific mask for erasing by randomly sampling a single specific class to be erased (target class) among the existing classes on the image for obtaining more precise CAMs. Specifically, with the guidance of the ordinary classifier, the proposed CAMs Generation Network (CGNet) is enforced to generate a CAM of the target class while constraining the CAM not to intrude the object regions of the other classes. Along with the pseudo-labels refined from our CAMs, we achieve the state-of-the-art WSSS performance on both PASCAL VOC 2012 and MS-COCO dataset only with image-level supervision. The code is available at https://github.com/KAIST-vilab/OC-CSE.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,8 +50,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-19787-1_20'
-url_code: 'https://github.com/chang9711/BIPS'
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2021/papers/Kweon_Unlocking_the_Potential_of_Ordinary_Classifier_Class-Specific_Adversarial_Erasing_Framework_ICCV_2021_paper.pdf'
+url_code: 'https://github.com/KAIST-vilab/OC-CSE'
 url_dataset: ''
 url_poster: ''
 url_project: ''

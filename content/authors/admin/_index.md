@@ -73,8 +73,8 @@ education:
     date_end: 2018-02-28
     summary: ''
 work:
-  - position: Deep Learning R&D Intern
-    company_name: Qualcomm
+  - position: Qualcomm
+    company_name: Deep Learning R&D Intern
     company_url: ''
     company_logo: ''
     date_start: 2024-04-01
@@ -82,8 +82,8 @@ work:
     summary: |2-
       - Work with the US team in remote
       - Development of deep learning models to predict trajectories and/or intentions for road users
-  - position: Research Intern
-    company_name: Naver Labs
+  - position: Naver Labs
+    company_name: Research Intern
     company_url: ''
     company_logo: ''
     date_start: 2021-06-01
@@ -172,4 +172,4 @@ awards:
 
 ## About Me
 
-Daehee Park is a Ph.D. candidate at Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/)), advised by Prof.Kuk-Jin Yoon. He received B.S. and M.S. degree from KAIST in 2018 and 2020. He had research intern at [Naver Labs](https://www.naverlabs.com/) (2021) and [Qualcomm](https://www.qualcomm.com/) (2024). His research interests include expanding applicability of deep learning and computer vision for autonomous driving. His recent researchs are focused on modeling movement of agents under chellenging real-world problems (e.g. complex interaction, domain shift, and long-tail problem)
+Daehee Park is a Ph.D. candidate at Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr/)), advised by Prof. Kuk-Jin Yoon. He received B.S. and M.S. degree from KAIST in 2018 and 2020. He had research intern at [Naver Labs](https://www.naverlabs.com/) (2021) and [Qualcomm](https://www.qualcomm.com/) (2024). His research interests include expanding applicability of deep learning and computer vision for autonomous driving. His recent researchs are focused on modeling movement of agents under chellenging real-world problems (e.g. complex interaction, domain shift, and long-tail problem)
