@@ -36,9 +36,9 @@ abstract: Human pose forecasting garners attention for its diverse applications.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Trajectory Prediction
+  - Motion Forecasting
   - Deep Learning
-  - Autonomous Driving
+  - Interaction Modeling
 
 # Display this page in the Featured widget?
 featured: true
