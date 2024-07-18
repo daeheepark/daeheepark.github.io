@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+          
   - block: collection
     id: news
     content:
@@ -55,7 +56,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: title
       # Reduce spacing
       # spacing:
       #   padding: [0, 0, 0, 0]
