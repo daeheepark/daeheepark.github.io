@@ -24,7 +24,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: "Korea Advanced Institute of <br /> Science and Technology (KAIST) <br /> VILAB"
+  - name: "Korea Advanced Institute of <br /> Science and Technology (KAIST) <br /> VILAB "
     url: https://vi.kaist.ac.kr
 
 # Social network links
