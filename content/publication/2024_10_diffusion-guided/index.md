@@ -19,7 +19,7 @@ author_notes:
   - 'Second author'
   - 'Corresponding author'
 
-date: '2024-10-1T00:00:00Z'
+date: '2024-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
