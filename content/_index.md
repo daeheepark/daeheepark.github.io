@@ -55,10 +55,10 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: 1
+      view: 2
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
         
   - block: resume-experience
     content:
