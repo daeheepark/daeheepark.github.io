@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-2
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -55,7 +55,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: 1
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
