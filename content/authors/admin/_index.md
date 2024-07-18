@@ -57,7 +57,7 @@ education:
   - area: PhD Mechanical Engineering
     institution: KAIST
     date_start: 2020
-    date_end: Current
+    date_end: 2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
