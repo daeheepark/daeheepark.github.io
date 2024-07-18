@@ -5,9 +5,9 @@ title: 'Multi-agent Long-term 3D Human Pose Forecasting via Interaction-aware Tr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Jaewoo Jeong
-  - Kuk-Jin Yoon
+  - Jaewoo Jeong*
+  - Daehee Park* 
+  - Kuk-Jin Yoon (*: equal contribution)
 
 # Author notes (optional)
 author_notes:

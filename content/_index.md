@@ -40,7 +40,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: event
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 5
       # Filter on criteria
       filters:
         author: ""
@@ -87,6 +87,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 50
       filters:
         folders:
           - publication
