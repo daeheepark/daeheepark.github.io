@@ -27,7 +27,10 @@ abstract: We observed that mirror reflection severely degrades person detection 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+  - Computer Vision
+  - Robot Vision
+  - Object Detection
+
 featured: false
 
 # links:

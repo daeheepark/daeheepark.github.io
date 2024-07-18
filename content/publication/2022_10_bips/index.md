@@ -8,7 +8,7 @@ authors:
   - Changgyoon Oh*
   - Wonjune Cho*
   - Yujeong Chae*
-  - admin *
+  - Daehee Park*
   - Lin Wang
   - Kuk-Jin Yoon (* denotes equal contribution)
 
@@ -42,7 +42,9 @@ abstract: Providing omnidirectional depth along with RGB information is importan
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Computer Vision
+  - Generative Model
+  - Panorama Image
 
 # Display this page in the Featured widget?
 featured: true
