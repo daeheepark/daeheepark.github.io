@@ -55,7 +55,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: list
+      view: compact
       # Reduce spacing
       # spacing:
       #   padding: [0, 0, 0, 0]
