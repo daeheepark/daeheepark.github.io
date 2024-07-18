@@ -1,11 +1,13 @@
 ---
-title: 'Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation'
+title: 'T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Jaeseok Jeong
+  - Sung-Hoon Yoon
   - Jaewoo Jeong
   - Kuk-Jin Yoon
 
@@ -13,9 +15,11 @@ authors:
 author_notes:
   - 'First author'
   - 'Second author'
+  - 'Second author'
+  - 'Second author'
   - 'Corresponding author'
 
-date: '2024-03-24T00:00:00Z'
+date: '2024-06-17T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +34,7 @@ publication_types: ['paper-conference']
 publication: AAAI 2024
 publication_short: 
 
-abstract: Multi-agent trajectory prediction is crucial for various practical applications, spurring the construction of many large-scale trajectory datasets, including vehicles and pedestrians. However, discrepancies exist among datasets due to external factors and data acquisition strategies. External factors include geographical differences and driving styles, while data acquisition strategies include data acquisition rate, history/prediction length, and detector/tracker error. Consequently, the proficient performance of models trained on large-scale datasets has limited transferability on other small-size datasets, bounding the utilization of existing large-scale datasets. To address this limitation, we propose a method based on continuous and stochastic representations of Neural Stochastic Differential Equations (NSDE) for alleviating discrepancies due to data acquisition strategy. We utilize the benefits of continuous representation for handling arbitrary time steps and the use of stochastic representation for handling detector/tracker errors. Additionally, we propose a dataset-specific diffusion network and its training framework to handle dataset-specific detection/tracking errors. The effectiveness of our method is validated against state-of-the-art trajectory prediction models on the popular benchmark datasets nuScenes, Argoverse, Lyft, INTERACTION, and Waymo Open Motion Dataset (WOMD). Improvement in performance gain on various source and target dataset configurations shows the generalized competence of our approach in addressing cross-dataset discrepancies.
+abstract: Trajectory prediction is a challenging problem that requires considering interactions among multiple actors and the surrounding environment. While data-driven approaches have been used to address this complex problem they suffer from unreliable predictions under distribution shifts during test time. Accordingly several online learning methods have been proposed using regression loss from the ground truth of observed data leveraging the auto-labeling nature of trajectory prediction task. We mainly tackle the following two issues. First previous works underfit and overfit as they only optimize the last layer of motion decoder. To this end we employ the masked autoencoder (MAE) for representation learning to encourage complex interaction modeling in shifted test distribution for updating deeper layers. Second utilizing the sequential nature of driving data we propose an actor-specific token memory that enables the test-time learning of actor-wise motion characteristics. Our proposed method has been validated across various challenging cross-dataset distribution shift scenarios including nuScenes Lyft Waymo and Interaction. Our method surpasses the performance of existing state-of-the-art online learning methods in terms of both prediction accuracy and computational efficiency. The code is available at https://github.com/daeheepark/T4P.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,8 +52,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ojs.aaai.org/index.php/AAAI/article/view/28879'
-url_code: 'https://github.com/daeheepark/TrajSDE'
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Park_T4P_Test-Time_Training_of_Trajectory_Prediction_via_Masked_Autoencoder_and_CVPR_2024_paper.pdf'
+url_code: 'https://github.com/daeheepark/T4P'
 url_dataset: ''
 url_poster: ''
 url_project: ''
