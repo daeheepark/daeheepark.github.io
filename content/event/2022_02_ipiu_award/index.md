@@ -1,6 +1,5 @@
 ---
-title: Won 1st olace in the Best Paper Awards during IPIU 2022, 34th Workshop on Image Processing and Image
-Understanding
+title: Won 1st olace in the Best Paper Awards during IPIU 2022, 34th Workshop on Image Processing and Image Understanding
 
 event: 
 event_url: 
