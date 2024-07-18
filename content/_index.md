@@ -54,13 +54,13 @@ sections:
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
-    # design:
-    #   # Choose a layout view
-    #   # view: date-title-summary
-    #   view: list
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # view: list
       # Reduce spacing
-      # spacing:
-      #   padding: [0, 0, 0, 0]
+      spacing:
+        padding: [0, 0, 0, -3]
         
   - block: resume-experience
     content:
