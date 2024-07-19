@@ -60,7 +60,7 @@ sections:
       # view: list
       # Reduce spacing
       spacing:
-        padding: [0, 0, -10, -10]
+        padding: [0, 0, 0,0]
         
   - block: resume-experience
     content:
