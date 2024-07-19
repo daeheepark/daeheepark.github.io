@@ -40,7 +40,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: event
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 4
       # Filter on criteria
       filters:
         author: ""
@@ -60,7 +60,7 @@ sections:
       # view: list
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [0, 0, -10, 0]
         
   - block: resume-experience
     content:
