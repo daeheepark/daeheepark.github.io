@@ -33,7 +33,7 @@ publication_short:
 abstract: Human pose forecasting garners attention for its diverse applications. However, challenges in modeling the multi-modal nature of human motion and intricate interactions among agents persist, particularly with longer timescales and more agents. In this paper, we propose an interaction-aware trajectory-conditioned long-term multi-agent human pose forecasting model, utilizing a coarse-to-fine prediction approach - multi-modal global trajectories are initially forecasted, followed by respective local pose forecasts conditioned on each mode. In doing so, our TrajectoryPose model introduces a graph-based agent-wise interaction module for a reciprocal forecast of local motion-conditioned global trajectory and trajectory-conditioned local pose. Our model effectively handles the multi-modality of human motion and the complexity of long-term multi-agent interactions, improving performance in complex environments. Furthermore, we address the lack of long-term (6s+) multi-agent (5+) datasets by constructing a new dataset from real-world images and 2D annotations, enabling a comprehensive evaluation of our proposed model. State-of-the-art prediction performance on both complex and simpler datasets confirms the generalized effectiveness of our method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper introduces an interaction-aware, trajectory-conditioned model for long-term multi-agent human pose forecasting, featuring a novel graph-based interaction module and validated with a new, extensive dataset.
 
 tags:
   - Motion Forecasting
