@@ -1,10 +1,10 @@
 ---
 title: News
 cms_exclude: true
-#url: talk
+url: news
 
 # View
-view: card
+view: Compact
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
