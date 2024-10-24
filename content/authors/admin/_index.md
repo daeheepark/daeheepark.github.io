@@ -78,7 +78,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-04-01
-    date_end: ''
+    date_end: 2024-09-30
     summary: |2-
       - Work with the US team in remote
       - Development of deep learning models to predict trajectories and/or intentions for road users
